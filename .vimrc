@@ -7,3 +7,4 @@ set shiftwidth=4
 set expandtab
 set softtabstop=4
 set textwidth=79
+set nowrap
