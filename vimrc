@@ -41,7 +41,9 @@ set directory=$HOME/.vim/tmp//,.  " Keep swap files in one location
 set tabstop=4                    " Global tab width.
 set softtabstop=4
 set shiftwidth=4                 " And again, related.
-set expandtab                    " Use spaces instead of tabs
+set noexpandtab                    " Use spaces instead of tabs
+
+autocmd FileType python set expandtab
 "
 " set laststatus=2                  " Show the status line all the time
 " " Useful status information at bottom of screen
