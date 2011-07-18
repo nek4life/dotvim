@@ -1,7 +1,7 @@
 set nocompatible                  " Must come first because it changes other options.
 "
-colorscheme molokai               " Set the color Scheme
 syntax enable                     " Turn on syntax highlighting.
+colorscheme molokai               " Set the color Scheme
 "
 runtime macros/matchit.vim        " Load the matchit plugin.
 "
