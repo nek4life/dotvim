@@ -19,3 +19,6 @@
 [submodule "bundle/snipmate"]
 	path = bundle/snipmate
 	url = https://github.com/msanders/snipmate.vim.git
+[submodule "bundle/LustyExplorer"]
+	path = bundle/LustyExplorer
+	url = https://github.com/vim-scripts/LustyExplorer.git
