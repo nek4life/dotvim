@@ -22,9 +22,9 @@
 [submodule "bundle/LustyExplorer"]
 	path = bundle/LustyExplorer
 	url = https://github.com/vim-scripts/LustyExplorer.git
-[submodule "vim-endwise"]
-	path = vim-endwise
+[submodule "bundle/vim-endwise"]
+	path = bundle/vim-endwise
 	url = https://github.com/tpope/vim-endwise.git
-[submodule "vim-rooter"]
-	path = vim-rooter
+[submodule "bundle/vim-rooter"]
+	path = bundle/vim-rooter
 	url = https://github.com/airblade/vim-rooter.git
