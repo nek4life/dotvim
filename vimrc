@@ -10,7 +10,7 @@ runtime macros/matchit.vim        " Load the matchit plugin.
 filetype plugin on                " Enable Plugins
 filetype indent on                " Enable auto indent
 "
-set textwidth=79                  " Auto line break at specified character count
+" set textwidth=79                  " Auto line break at specified character count
 set nowrap                        " Set text to nowrap
 "
 set nocompatible                  " Must come first because it changes other" options.
